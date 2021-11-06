@@ -2,7 +2,7 @@
 
 <h1>Foodtopia</h1>
 
-You can view the GitHub pages deployed application [here](https://fudge88.github.io/foodtopia/).
+You can view the GitHub pages deployed application [here](https://lenny-g.github.io/foodtopia/).
 
 <h2>Table of Contents</h2>
 
